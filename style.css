@@ -1,0 +1,98 @@
+
+.botones_3{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
+body{
+    background-image:url(ban/istockphoto-597240478-612x612.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+
+#boton_1{
+    background-color: black;
+    color: white;
+    border-radius: 20%;
+    border-color: black;
+    border-width: 30px;
+    font-size: 85px;
+}
+
+
+#boton_1:hover{
+    background-color: white;
+    color: black;
+    font-size: 90px;
+}
+
+
+
+._h_c{
+    background-color: black;
+    color: white;
+    border-radius: 20%;
+    border-color: crimson;
+    border-width: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    width: 600px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 70px;
+}
+
+
+
+.conjunto{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-content: space-between;
+    justify-content: center !important; 
+}
+
+
+
+.av{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    height: 100px;
+    width: 300px;
+    margin-top: 30px;
+}
+
+
+
+
+
+.bandera_h{
+    margin-top: 0px !important;
+    margin-bottom: 330px;
+}
+
+#paises_h.red{
+    color: red;
+    font-size: 35px;
+    margin-top: 15px;
+}
+
+
+
+#paises_h.blue{
+    color:white;
+    font-size: 70px;
+    margin-top: 40px;
+}
